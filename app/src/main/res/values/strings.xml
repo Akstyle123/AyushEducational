@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Razorpay Payment Gateway</string>
+
+    <string name="razorpay_key_id">rzp_live_R6yACqcQ9xZ1dr</string>
+    <string name="razorpay_secret_key">TTjWMV6Oo24YSy8DvaSfw7pN</string>
+</resources>
